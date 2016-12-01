@@ -1,2 +1,2 @@
 # prattler
-Semi-sensical sentence generator using ngrams
+Semi-sensical sentence generator using ngrams.
