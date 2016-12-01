@@ -1,0 +1,7 @@
+This is a simple text. It contains simple sentences. This is not
+a complicated text. It does not
+contain complicated structures.
+
+It contains some repeated
+patterns. It contains sentences with
+words. A simple text is nice for debugging.

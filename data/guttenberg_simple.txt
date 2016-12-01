@@ -1,0 +1,20 @@
+
+Project Gutenberg ebooks start with some informational text
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK GUTTEBERG_SIMPLE ***
+
+This is a simple text. It contains simple sentences. This is not
+a complicated text. It does not
+contain complicated structures.
+
+It contains some repeated
+patterns. It contains sentences with
+words. A simple text is nice for debugging.
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ALICE’S ADVENTURES IN WONDERLAND ***
+
+There is more text after the end of the ebook.
